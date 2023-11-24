@@ -105,7 +105,7 @@ export default function Footer() {
      
 
   <div className="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.2)"}}>
-    © 2022 Copyright
+    Developed by Navindu
   </div>
 </footer>
   );
